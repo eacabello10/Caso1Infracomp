@@ -1,0 +1,4 @@
+Clientes:25
+Servidores:25
+Numero de consultas por cliente:3
+Capacidad de buffer:110
